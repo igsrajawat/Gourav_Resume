@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  24 APR 2017 14:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  24 APR 2017 14:43
 entering extended mode
 **./Gourav_Resume.tex
 (Gourav_Resume.tex
@@ -299,6 +299,14 @@ l.68 \vspace{-0.7em}\hline
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.75 \vspace{-0.7em}\hline
+                           \vspace{1.5em}
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./img.jpg>]
@@ -306,7 +314,7 @@ an alignment. Proceed, and I'll ignore this case.
 Here is how much of TeX's memory you used:
  2109 strings out of 493333
  30306 string characters out of 3139171
- 100753 words of memory out of 3000000
+ 101753 words of memory out of 3000000
  5629 multiletter control sequences out of 15000+200000
  8365 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -317,7 +325,7 @@ pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Gourav_Resume.pdf (1 page, 91536 bytes).
+Output written on Gourav_Resume.pdf (1 page, 92491 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
