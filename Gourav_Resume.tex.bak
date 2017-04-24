@@ -44,5 +44,65 @@ Contact:9501179788\\
 	Secondary &BVB, Banswara &CBSE &2012 &9.2 CGPA \\ \hline
 	\end{tabular}	
 	
+	
+\section*{Project}
+\vspace{-0.7em}\hline \vspace{1.5em}
+\begin{enumerate}
+
+\item Made a Glove using ultrasonic sensor which can help blind in finding their path as semester project. 
+
+\item A Fan which can change its speed according to room temperature using LM35. 
+
+\item Build a 220V to 5V power supply under summer training organized by University
+\end{enumerate}
+
+\section*{Competition}
+\vspace{-0.7em}\hline \vspace{1.5em}
+\begin{itemize}
+\item Participated in Eyantra Robotics Competition 2016, conducted by IIT Bombay under MHRD Department and Secured 2nd position under the theme Cross-A-Crater.
+\item Participated in Tech Fest of DTU,Delhi and Chandigarh University in different robotics competition like Maze solver, Robo Soccer.
+\end{itemize}
+
+
+\section*{Training \& Internship}
+\vspace{-0.7em}\hline \vspace{1.5em}
+\begin{itemize}
+\item Attended four weeks summer training organised by Chandigarh University on Basic electronics and programming,
+\item Attended workshop on the topic "Ethical Hacking" held at Chandigarh University.
+
+\end{itemize}
+\section*{Soft skills}
+\vspace{-0.7em}\hline \vspace{1.5em}
+\begin{enumerate}
+\item Proficient in language:
+\begin{itemize}
+\item English
+\item Hindi
+
+\end{itemize}
+\item Have good communication and managing skills
+\end{enumerate}
+
+\section*{Technical Skill}
+\vspace{-0.7em}\hline \vspace{1.5em}
+\begin{enumerate}
+\item Have good knowledge of programming language:
+\begin{itemize}
+\item C
+\item C++
+\item java
+\item MySQL
+\end{itemize}
+\item Knowledge of software:
+\begin{itemize}
+\item Auto CAD 2011
+\item MATLAB by Mathworks
+\item Proteus Design suit
+\end{itemize}
+\end{enumerate}
+
+
+
+
 
 \end{document}
