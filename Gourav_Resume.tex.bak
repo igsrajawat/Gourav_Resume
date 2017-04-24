@@ -1,3 +1,4 @@
+% Resume of Gourav Singh Rajawat
 \documentclass[11pt,a4paper]{article}
 \usepackage[margin=0.5in]{geometry} %for page margin setup
 \usepackage{multicol}% to divide page in parts to write address and contact information
@@ -13,53 +14,53 @@
 \author{}
 \date{}
 \maketitle
-\sline 
-\begin{multicols}{2} %m
-\flushleft{
-\large{
+\sline  %sline call
+\begin{multicols}{2} %multicol package start
+\flushleft{ %this part is shown on left of the page
+\large{ %larger words than normal
 8/12 B, Khandu Colony\\
 Banswara,Rajasthan\\
 Pin:327001\\
 }
 }
-\columnbreak
-\flushright{
-\large{
+\columnbreak % now from here content will be go to next part
+\flushright{ % content shown on right part of page
+\large{  
 Contact:9501179788\\
-\texttt{gsrajawat1997@gmail.com}\\
-\includegraphics[width=4cm, height=4cm]{img.jpg}\\
+\texttt{gsrajawat1997@gmail.com}\\ % type of font i.etypewriter font
+\includegraphics[width=4cm, height=4cm]{img.jpg}\\ %including image since no path is describe so it tries to find image from path where the latex file is
 }
 }
-\end{multicols}
+\end{multicols} %multicol ends here
 
-\section*{Education}
-\vspace{-0.7em}\hline \vspace{1.5em}
-	\begin{tabular}{|c|c|c|c|c|}
-	\hline
+\section*{Education} % A new section education added
+\vspace{-0.7em}\hline \vspace{1.5em} %for a single line
+	\begin{tabular}{|c|c|c|c|c|} % to create a table
+	\hline %single line
 	Degree & College/School & University/Board & Passing Year & Pass Percentage \\
 	\hline
 	B.E. &UIE &Chandiagrh University &2019 &7.7(First year) \\
 	\hline
 	Heigher Secondary &KV,Banswara &CBSE &2014 & 73.8\% \\ \hline
 	Secondary &BVB, Banswara &CBSE &2012 &9.2 CGPA \\ \hline
-	\end{tabular}	
+	\end{tabular}	%table ends
 	
 	
 \section*{Project}
 \vspace{-0.7em}\hline \vspace{1.5em}
-\begin{enumerate}
+\begin{enumerate} %enumerate i.e points shown by number begin
 
-\item Made a Glove using ultrasonic sensor which can help blind in finding their path as semester project. 
+\item Made a Glove using ultrasonic sensor(SR-04) which can help blind in finding their path as semester project. 
 
-\item A Fan which can change its speed according to room temperature using LM35. 
+\item A Fan which can change its speed according to room temperature using LM35 temperature sensor.
 
-\item Build a 220V to 5V power supply under summer training organized by University
+\item Build a 220V to 5V power supply under summer training organized by ChandiaUniversity
 \end{enumerate}
 
 \section*{Competition}
 \vspace{-0.7em}\hline \vspace{1.5em}
-\begin{itemize}
-\item Participated in Eyantra Robotics Competition 2016, conducted by IIT Bombay under MHRD Department and Secured 2nd position under the theme Cross-A-Crater.
+\begin{itemize} %itemize i.e points shown by bulletin 
+\item Participated in Eyantra Robotics Competition 2016, conducted by IIT Bombay under MHRD DepartmentIndia and Secured 2nd position under the theme Cross-A-Crater.
 \item Participated in Tech Fest of DTU,Delhi and Chandigarh University in different robotics competition like Maze solver, Robo Soccer.
 \end{itemize}
 
@@ -67,7 +68,7 @@ Contact:9501179788\\
 \section*{Training \& Internship}
 \vspace{-0.7em}\hline \vspace{1.5em}
 \begin{itemize}
-\item Attended four weeks summer training organised by Chandigarh University on Basic electronics and programming,
+\item Attended four weeks summer training organized by Chandigarh University on Basic electronics and programming,
 \item Attended workshop on the topic "Ethical Hacking" held at Chandigarh University.
 
 \end{itemize}
@@ -141,8 +142,5 @@ I hereby declare that the details furnished above are true and correct to the be
 \begin{flushright}
 \Large Gourav Singh Rajawat
 \end{flushright}
-
-\end{document}
-
 
 \end{document}
